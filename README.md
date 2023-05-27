@@ -52,6 +52,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github&color=1f2937)
 ![gitlab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab&color=1f2937)
 
+### Project
+
+<span><em>[coming soon]</em></span>
+
 <div>
   <br>
   <a href="#">
