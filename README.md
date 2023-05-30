@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=1f2937)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&color=1f2937)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=1f2937)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&color=1f2937)
 
 ### Databases
 
@@ -28,6 +29,7 @@
 
 ### Technologies
 
+![ApolloGraphQL](https://img.shields.io/badge/-ApolloGraphQL-000?&logo=apollographql&color=1f2937)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&color=1f2937)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=1f2937)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&color=1f2937)
@@ -40,7 +42,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&color=1f2937)
 ![storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook&color=1f2937)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&color=1f2937)
-![StykedComponents](https://img.shields.io/badge/-StyledComponents-000?&logo=styledcomponents&color=1f2937)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-000?&logo=styledcomponents&color=1f2937)
 ![MUI](https://img.shields.io/badge/-MUI-000?&logo=mui&color=1f2937)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&color=1f2937)
 ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-000?&logo=testinglibrary&color=1f2937)
